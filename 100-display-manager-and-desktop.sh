@@ -59,9 +59,7 @@ arcolinux-wallpapers-git
 arcolinux-wallpapers-wayfire-git
 arcolinux-wayfire-dconf-git
 arcolinux-wayfire-git
-arcolinux-wayfire-profile-git
 arcolinux-wayland-app-hooks-git 
-arcolinux-wayland-profile-git
 arcolinux-xfce-git
 dconf-editor
 feh
