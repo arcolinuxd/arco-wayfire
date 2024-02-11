@@ -1,4 +1,4 @@
-# ArcoLinuxD Hyprland desktop
+# ArcoLinuxD Wayfire desktop
 
 # Start by installing the latest ArcoLinuxD iso
 
