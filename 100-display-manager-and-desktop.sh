@@ -60,7 +60,7 @@ arcolinux-wallpapers-wayfire-git
 arcolinux-wayfire-dconf-git
 arcolinux-wayfire-git
 arcolinux-wayland-app-hooks-git 
-arcolinux-xfce-git
+arconet-xfce
 dconf-editor
 feh
 foot
