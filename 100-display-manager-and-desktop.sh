@@ -65,7 +65,6 @@ dconf-editor
 feh
 foot
 grim
-libdisplay-info
 mako
 polkit-gnome
 rofi-lbonn-wayland
