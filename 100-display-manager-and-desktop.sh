@@ -53,6 +53,7 @@ arcolinux-config-all-desktops-git
 arcolinux-foot-git
 arcolinux-kitty-git
 arcolinux-local-xfce4-git
+arcolinux-pywal-cache-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
 arcolinux-wallpapers-git
