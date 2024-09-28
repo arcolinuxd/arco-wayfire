@@ -57,12 +57,9 @@ arcolinux-pywal-cache-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
 arcolinux-wallpapers-git
-arcolinux-wallpapers-wayfire-git
-arcolinux-wayfire-dconf-git
 arcolinux-wayfire-git
 arcolinux-wayland-app-hooks-git 
 arconet-xfce
-dconf-editor
 feh
 foot
 grim

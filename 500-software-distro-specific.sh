@@ -56,6 +56,7 @@ func_category Additional-distro-specific
 
 list=(
 arandr
+arcolinux-wallpapers-wayfire-git
 dmenu
 feh
 gmrun
