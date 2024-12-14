@@ -86,7 +86,6 @@ wf-shell-git
 wl-clipboard
 wlr-randr
 wofi
-xdg-desktop-portal-wlr
 xfce4-terminal
 )
 
